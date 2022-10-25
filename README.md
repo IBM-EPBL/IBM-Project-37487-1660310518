@@ -3,4 +3,8 @@
 # Smart Fashion Recommender Application
 
 ### Category: Cloud App Development
-#### Batch Name
+
+#### Batch Name:
+
+#### Team ID:
+Team Size:
