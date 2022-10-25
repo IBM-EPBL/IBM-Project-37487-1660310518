@@ -20,11 +20,19 @@ Team member : RAMESHKRISHNAN M
 Team member : NISHANTH R
 
 ---
-#### Industry Mentor(s) Name : Krishna Chaitanya
-#### Faculty Mentor(s) Name : Gowtham S
+#### 
+Industry Mentor(s) Name : Krishna Chaitanya
+
+#### 
+Faculty Mentor(s) Name : Gowtham S
+
 ---
-#### Degree : Bachelor of Technology
-#### Branch : Information Technology
-#### College :K.S.R COLLEGE OF ENGINEERING
+#### 
+Degree : Bachelor of Technology
+
+Branch : Information Technology
+
+College : K.S.R COLLEGE OF ENGINEERING
+
 ---
 ## Assignment
