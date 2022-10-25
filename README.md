@@ -7,7 +7,7 @@
 #### Batch Name :B3-3M5E
 ---
 #### Team ID : 
-#### Team Size : 4
+Team Size : 4
 #### Team Leader : SOUNDAR M
 #### Team member : SASIDHAREN S
 #### Team member : RAMESHKRISHNAN M
