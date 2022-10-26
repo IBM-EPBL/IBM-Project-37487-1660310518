@@ -13,7 +13,7 @@ Team Size : 4
 
 Team Leader : SOUNDAR M 
 
-Team member : SASIDHAREN S
+Team member : SASIDHARAN S
 
 Team member : RAMESHKRISHNAN M
 
