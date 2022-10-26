@@ -4,7 +4,7 @@
 
 ## Category : Cloud App Development
 
-#### Batch Name :B3-3M5E
+#### Batch Name : B3-3M5E
 ---
 #### 
 Team ID : 
