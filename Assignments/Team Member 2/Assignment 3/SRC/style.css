@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #fc8282, #a2e5e9);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+img {
+    height: 240px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
