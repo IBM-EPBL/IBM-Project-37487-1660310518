@@ -39,7 +39,7 @@ College : K.S.R COLLEGE OF ENGINEERING
 ####
 [Team Leader](https://github.com/IBM-EPBL/IBM-Project-37487-1660310518/tree/main/Assignments/Team%20Leader)
 ####
-[Team Member 1]
+[Team Member 1](https://github.com/IBM-EPBL/IBM-Project-37487-1660310518/tree/main/Assignments/Team%20Member%201)
 ####
 [Team Member 2]
 ####
